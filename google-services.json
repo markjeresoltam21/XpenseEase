@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "63324815135",
+    "project_id": "xpenseease",
+    "storage_bucket": "xpenseease.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63324815135:android:51e8a70c03f20efe707a2a",
+        "android_client_info": {
+          "package_name": "com.mjsag.xpenseease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM51MI7NHMRRk54odYDliEatnZ2bzMc4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

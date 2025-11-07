@@ -1,0 +1,48 @@
+{
+  "expo": {
+    "name": "XpenseEase",
+    "slug": "xpenseease",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/logo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#10B981"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mjsag.xpenseease",
+      "icon": "./assets/images/logo.png"
+    },
+    "android": {
+      "package": "com.mjsag.xpenseease",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/logo.png",
+        "backgroundColor": "#10B981"
+      },
+      "icon": "./assets/images/logo.png",
+      "permissions": [
+        "CAMERA",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/images/logo.png"
+    },
+    "platforms": [
+      "android",
+      "ios",
+      "web"
+    ]
+  }
+}
