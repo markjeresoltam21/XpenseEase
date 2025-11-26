@@ -320,7 +320,7 @@ If you have any questions or need help:
 ## 👨‍💻 About the Developer
 
 <div align="center">
-  <img src="assets/images/mjsag.jpg" alt="Mark Jere Soltam Ayala Gementiza" width="150" height="150" style="border-radius: 50%; border: 3px solid #10B981;">
+  <img src="assets/images/mjsag.jpg" alt="Mark Jere Soltam Ayala Gementiza" width="150" height="150">
   
   **Mark Jere Soltam Ayala Gementiza**
   
